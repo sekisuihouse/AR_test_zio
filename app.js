@@ -1,4 +1,4 @@
-// アプリケーションの主要な機能を実装するJavaScript
+// アプリケーションの主要な機能を実装するJavaScriptです
 
 document.addEventListener('DOMContentLoaded', function() {
     // 要素の取得
